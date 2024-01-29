@@ -1,4 +1,4 @@
-### Hello there
+### Hello there 👋
 
 About Me:
 - 💻 Low-Level Enthusiast: Fluent in the ancient arts of Go, Rust, Zig, and C.
