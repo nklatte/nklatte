@@ -1,8 +1,8 @@
 # Hello there 👋
 
 ## About Me:
-- 💻 Low-Level Enthusiast: Fluent in the ancient arts of Go, Zig, Rust, and C.
-- 🐧 Linux Lover: I speak penguin fluently and find joy in the command line.
+- 💻 Low-Level Enthusiast
+- 🐧 Linux Lover
 - 🌐 Open Source Aficionado
 
 ## 🛠 &nbsp;Languages and Tools :
