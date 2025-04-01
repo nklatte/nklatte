@@ -1,9 +1,10 @@
 # Hello there 👋
 
 ## About Me:
-- 💻 Low-Level Enthusiast
+- ✨ Passionate about Design
+- 🎮 Game Developer
 - 🐧 Linux Lover
 - 🌐 Open Source Aficionado
 
 ## 🛠 &nbsp;Languages and Tools :
-[![Languages and Tools](https://skillicons.dev/icons?i=go,rust,zig,c,wasm,ts,js,php,symfony,lua,linux,docker,git,gitlab,github,azure,aws,neovim,vim)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=ts,js,go,ruby,rails,,godot,zig,c,php,symfony,lua,linux,docker,azure,aws,neovim,vim)](https://skillicons.dev)
