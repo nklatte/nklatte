@@ -7,4 +7,4 @@
 - 🌐 Open Source Aficionado
 
 ## 🛠 &nbsp;Languages and Tools :
-[![Languages and Tools](https://skillicons.dev/icons?i=ts,js,go,ruby,rails,godot,zig,c,php,symfony,lua,linux,docker,azure,aws,neovim,vim)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=ts,js,ruby,rails,godot,go,php,symfony,lua,linux,docker,azure,aws,neovim,vim)](https://skillicons.dev)
