@@ -3,7 +3,6 @@
 ## About Me:
 - 🎮 Game Developer
 - 🐧 Linux Lover
-- Low Level Enjoyer
 - 🌐 Open Source Aficionado
 
 ## 🛠 &nbsp;Languages and Tools :
