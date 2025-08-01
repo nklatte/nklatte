@@ -2,7 +2,7 @@
 
 ## About Me:
 - 🎮 Game Developer
-- 🐧 Linux Lover
+- Love Design
 - 🌐 Open Source Aficionado
 
 ## 🛠 &nbsp;Languages and Tools :
